@@ -1,5 +1,4 @@
-![Black Technology LinkedIn](https://user-images.githubusercontent.com/41315903/87182821-7fd15e80-c302-11ea-8a7b-4e37dc8866b0.png)
-
+![Black Technology LinkedIn](https://user-images.githubusercontent.com/41315903/87186826-c4142d00-c309-11ea-9ed0-8bc8952dc53b.png)
 <!--
 **kedarghule/kedarghule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
