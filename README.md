@@ -2,7 +2,7 @@
 
  - [Link](https://dev.to/kedarghule) to my Blog.
  - [Link](https://www.linkedin.com/in/kedar-ghule/) to my LinkedIn.
- - 
+ 
 <!--
 **kedarghule/kedarghule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
