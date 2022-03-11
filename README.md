@@ -1,6 +1,8 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/41315903/153723370-7a06ba66-8a0c-4fc6-a062-dd8334220611.png)
 
-
+ - [Link](https://dev.to/kedarghule) to my Blog.
+ - [Link](https://www.linkedin.com/in/kedar-ghule/) to my LinkedIn.
+ - 
 <!--
 **kedarghule/kedarghule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
