@@ -1,6 +1,7 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/41315903/153723370-7a06ba66-8a0c-4fc6-a062-dd8334220611.png)
 
- - [Link](https://dev.to/kedarghule) to my Blog.
+ - [Link](https://dev.to/kedarghule) to my dev.to Blog.
+ - [Link](https://hashnode.com/) to my Hashnode Blog.
  - [Link](https://www.cloudanix.com/blog/author/kedar/) to my blogs I wrote at Cloudanix.
  - [Link](https://www.linkedin.com/in/kedar-ghule/) to my LinkedIn.
  
