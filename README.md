@@ -1,4 +1,14 @@
-![GitHub Banner](https://user-images.githubusercontent.com/41315903/153723370-7a06ba66-8a0c-4fc6-a062-dd8334220611.png)
+<h3 align="center">
+  Hi! I am Kedar Ghule, nice to meet you!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<hr>
+
+![GitHub Banner](https://user-images.githubusercontent.com/41315903/175362327-a3b06a40-9dd6-47a5-a812-1a4c59195016.png)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kedarghule)
+
 
  - [Link](https://dev.to/kedarghule) to my dev.to Blog.
  - [Link](https://hashnode.com/) to my Hashnode Blog.
