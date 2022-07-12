@@ -15,6 +15,7 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/41315903/175362327-a3b06a40-9dd6-47a5-a812-1a4c59195016.png)
 
 - :book: I’m currently pursuing my MS in Electrical and Computer Engineering with a focus in Machine Learning at Northeastern University.
+- :hammer: I am one of the maintainers of Lyft's Open Source Cartography repository.
 - :pen: [Link](https://www.cloudanix.com/blog/author/kedar/) to my blogs I wrote at Cloudanix.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kedarghule)
