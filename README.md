@@ -17,10 +17,6 @@
 - :book: I’m currently pursuing my MS in Electrical and Computer Engineering with a focus in Machine Learning at Northeastern University.
 - :hammer: I am one of the maintainers of Lyft's Open Source Cartography repository.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kedarghule)
-![Kedar's github stats](https://github-readme-stats.vercel.app/api?username=kedarghule&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
- 
 <!--
 **kedarghule/kedarghule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
